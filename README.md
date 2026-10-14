@@ -175,6 +175,6 @@ sequenceDiagram
 
 ## 👨‍💻 Penulis & Pengembang
 
-* **Pengembang**: Rafif ([@JavaFizd](https://github.com/JavaFizd))
+* **Pengembang**: Daffa ([@JavaFizd](https://github.com/JavaFizd))
 * **Mata Kuliah / Modul**: Pemrograman Web — Pertemuan 5: Laravel Fundamental
 * **Tahun**: 2026
