@@ -119,6 +119,18 @@ sequenceDiagram
 
 ---
 
+## 📸 Dokumentasi & Hasil Pengujian Fitur
+
+| 1. Pusat Komando Dashboard | 2. Katalog Produk & Filter |
+| :---: | :---: |
+| <img src="screenshots/01_dashboard.png" width="100%" alt="Dashboard" /> | <img src="screenshots/02_produk.png" width="100%" alt="Katalog Produk" /> |
+
+| 3. Form Tambah Produk (Validasi CSRF) | 4. Laporan Agregasi SQL (Slide 14 & 28) |
+| :---: | :---: |
+| <img src="screenshots/03_form_tambah.png" width="100%" alt="Form Tambah Produk" /> | <img src="screenshots/04_laporan.png" width="100%" alt="Laporan Agregat" /> |
+
+---
+
 ## ✅ Acceptance Criteria Checklist (Slide 41 & 46)
 
 - [x] **Aplikasi dapat dijalankan** dari project Laravel baru (`php artisan serve`).
